@@ -35,10 +35,6 @@
 
 ---
 
-
-
----
-
 ## 这是什么
 
 售前初筛「这个客户值不值得跟」：四看固定顺序=预算→决策链→匹配度→时间线；输出三值：跟（可降优先级）/转介绍/放弃。触发：值不值得跟、预算只有一半要不要跟、以后再说是不是没戏、对接人不能拍板能成吗。与谈单中途放弃(u21)、跟进节奏(u20)区分。 metadata: cangjie.generated-by: cangjie-tools v2.5.0 cangjie.capability-id: cap.ai-training-profit-model.client-qualification cangjie.capability-revision: 1 cangjie.bundle-id: bundle.ai-training-profit-model cangjie.source-title: 我做了50场AI企业培训终于搞清这门生意的赚钱模型（飞书文档 2026-05-18 修改
@@ -68,6 +64,17 @@ MIT License
 添加时请备注：GitHub-client-qualification
 
 > 不提供免费技术支持。问题请走 Issue。
+
+---
+
+## 如果要商用
+
+代码是 MIT，商用不需要问我，改、卖、二次开发都行。
+
+不过商用场景通常比自用麻烦：部署环境、数据合规、出了问题谁兜底。真要落到业务里，
+可以先跟我说一声，这些坑我大概率踩过。
+
+微信 **enhaopang**，备注 `GitHub-仓库名`。
 
 ---
 
